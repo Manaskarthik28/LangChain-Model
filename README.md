@@ -3,9 +3,9 @@
 
  # steps in project
  Install dependencies
- sudo apt update
- sudo get-update install python3
- pip install pandas langchain langchain-google-genai tabulate
+ 1) sudo apt update
+ 2) sudo get-update install python3
+ 3) pip install pandas langchain langchain-google-genai tabulate
 
  # project explanation
  1) create a project and name it 'langchain_rag'.
